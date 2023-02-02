@@ -1,0 +1,131 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+.top-container {
+    background-color: #FAF7F0;
+    position: relative;
+    padding-top: 100px;
+}
+
+.marina-pic {
+    width: 220px;
+    margin-top: 100px;
+}
+
+.profile p {
+    width: 500px;
+    text-align: center;
+    margin: 0 auto;
+    line-height: 2;
+}
+
+h1 {
+    color: #BCCEF8;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    line-height: 2;
+    margin: 50px auto 0 auto;
+}
+
+h2 {
+    color: #BCCEF8;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem; /*40px*/
+    font-weight: normal;
+}
+
+h3 {
+    color: #98A8F8;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a {
+    color: #98A8F8;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+    border: 7px dotted #98A8F8;
+    border-style: none none dotted; 
+    width: 50px;
+    margin: 70px auto;
+}
+
+.top-cloud  {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+}
+
+.top-paragraph {
+    font-size: 1.25rem;
+}
+
+.skill-row {
+    display: inline-block;
+    line-height: 2;
+    margin: 100px auto;
+    position: relative;
+    text-align: left;
+    width: 50%;
+}
+
+.skill-row h3 {
+    position: absolute;
+    bottom: 150px;
+    left: 300px;
+    margin-left: 20px;
+}
+
+.skill-row p {
+    position: absolute;
+    width: 700px;
+    bottom: 50px;
+    left: 300px;
+    margin-left: 20px;
+}
+
+.icon {
+    width: 25%;
+}
+
+.bottom-container {
+    background-color: #BCCEF8;
+    height: 100px;
+}
+
+.footer-link {
+    margin: 20px 50px;
+    color: #FAF7F0;
+}
+
+.bottom-container p {
+    margin: 20px 50px;
+    color: #98A8F8;
+    margin: 50px auto;
+}
+
+.contact-me p {
+    width: 500px;
+    text-align: center;
+    margin: 20px auto;
+    line-height: 2;
+}
+
+.btn {
+    background-color: #98A8F8;
+    color: #FAF7F0;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 20px;
+
+}
